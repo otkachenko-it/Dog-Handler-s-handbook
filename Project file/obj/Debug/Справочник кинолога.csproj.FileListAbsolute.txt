@@ -1,0 +1,50 @@
+\\nas\redirect\ткаченко он\Documents\КУРСОВАЯ КИНОЛОГ\Справочник кинолога\Справочник кинолога\bin\Debug\Справочник кинолога.exe.config
+\\nas\redirect\ткаченко он\Documents\КУРСОВАЯ КИНОЛОГ\Справочник кинолога\Справочник кинолога\bin\Debug\Справочник кинолога.exe
+\\nas\redirect\ткаченко он\Documents\КУРСОВАЯ КИНОЛОГ\Справочник кинолога\Справочник кинолога\bin\Debug\Справочник кинолога.pdb
+\\nas\redirect\ткаченко он\Documents\КУРСОВАЯ КИНОЛОГ\Справочник кинолога\Справочник кинолога\obj\Debug\Справочник кинолога.csprojResolveAssemblyReference.cache
+\\nas\redirect\ткаченко он\Documents\КУРСОВАЯ КИНОЛОГ\Справочник кинолога\Справочник кинолога\obj\Debug\Справочник_кинолога.Form1.resources
+\\nas\redirect\ткаченко он\Documents\КУРСОВАЯ КИНОЛОГ\Справочник кинолога\Справочник кинолога\obj\Debug\Справочник_кинолога.Properties.Resources.resources
+\\nas\redirect\ткаченко он\Documents\КУРСОВАЯ КИНОЛОГ\Справочник кинолога\Справочник кинолога\obj\Debug\Справочник кинолога.csproj.GenerateResource.Cache
+\\nas\redirect\ткаченко он\Documents\КУРСОВАЯ КИНОЛОГ\Справочник кинолога\Справочник кинолога\obj\Debug\Справочник кинолога.csproj.CoreCompileInputs.cache
+\\nas\redirect\ткаченко он\Documents\КУРСОВАЯ КИНОЛОГ\Справочник кинолога\Справочник кинолога\obj\Debug\Справочник кинолога.exe
+\\nas\redirect\ткаченко он\Documents\КУРСОВАЯ КИНОЛОГ\Справочник кинолога\Справочник кинолога\obj\Debug\Справочник кинолога.pdb
+C:\Users\Ткаченко ОН\Desktop\Новая папка\Справочник кинолога 0\Справочник кинолога\bin\Debug\Справочник кинолога.exe.config
+C:\Users\Ткаченко ОН\Desktop\Новая папка\Справочник кинолога 0\Справочник кинолога\bin\Debug\Справочник кинолога.exe
+C:\Users\Ткаченко ОН\Desktop\Новая папка\Справочник кинолога 0\Справочник кинолога\bin\Debug\Справочник кинолога.pdb
+C:\Users\Ткаченко ОН\Desktop\Новая папка\Справочник кинолога 0\Справочник кинолога\obj\Debug\Справочник кинолога.csprojResolveAssemblyReference.cache
+C:\Users\Ткаченко ОН\Desktop\Новая папка\Справочник кинолога 0\Справочник кинолога\obj\Debug\Справочник_кинолога.Form1.resources
+C:\Users\Ткаченко ОН\Desktop\Новая папка\Справочник кинолога 0\Справочник кинолога\obj\Debug\Справочник_кинолога.Properties.Resources.resources
+C:\Users\Ткаченко ОН\Desktop\Новая папка\Справочник кинолога 0\Справочник кинолога\obj\Debug\Справочник кинолога.csproj.GenerateResource.Cache
+C:\Users\Ткаченко ОН\Desktop\Новая папка\Справочник кинолога 0\Справочник кинолога\obj\Debug\Справочник кинолога.csproj.CoreCompileInputs.cache
+C:\Users\Ткаченко ОН\Desktop\Новая папка\Справочник кинолога 0\Справочник кинолога\obj\Debug\Справочник кинолога.exe
+C:\Users\Ткаченко ОН\Desktop\Новая папка\Справочник кинолога 0\Справочник кинолога\obj\Debug\Справочник кинолога.pdb
+C:\Users\Ткаченко ОН\Desktop\Курсовая\Справочник кинолога\bin\Debug\Справочник кинолога.exe.config
+C:\Users\Ткаченко ОН\Desktop\Курсовая\Справочник кинолога\bin\Debug\Справочник кинолога.exe
+C:\Users\Ткаченко ОН\Desktop\Курсовая\Справочник кинолога\bin\Debug\Справочник кинолога.pdb
+C:\Users\Ткаченко ОН\Desktop\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.csprojResolveAssemblyReference.cache
+C:\Users\Ткаченко ОН\Desktop\Курсовая\Справочник кинолога\obj\Debug\Справочник_кинолога.Form1.resources
+C:\Users\Ткаченко ОН\Desktop\Курсовая\Справочник кинолога\obj\Debug\Справочник_кинолога.Properties.Resources.resources
+C:\Users\Ткаченко ОН\Desktop\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.csproj.GenerateResource.Cache
+C:\Users\Ткаченко ОН\Desktop\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.csproj.CoreCompileInputs.cache
+C:\Users\Ткаченко ОН\Desktop\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.exe
+C:\Users\Ткаченко ОН\Desktop\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.pdb
+C:\Users\HP\Desktop\Учеба\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\bin\Debug\Справочник кинолога.exe.config
+C:\Users\HP\Desktop\Учеба\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\bin\Debug\Справочник кинолога.exe
+C:\Users\HP\Desktop\Учеба\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\bin\Debug\Справочник кинолога.pdb
+C:\Users\HP\Desktop\Учеба\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Учеба\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник_кинолога.Form1.resources
+C:\Users\HP\Desktop\Учеба\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник_кинолога.Properties.Resources.resources
+C:\Users\HP\Desktop\Учеба\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Учеба\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Учеба\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.exe
+C:\Users\HP\Desktop\Учеба\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.pdb
+D:\DOCUMENTS\Учёба\Общая\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\bin\Debug\Справочник кинолога.exe.config
+D:\DOCUMENTS\Учёба\Общая\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\bin\Debug\Справочник кинолога.exe
+D:\DOCUMENTS\Учёба\Общая\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\bin\Debug\Справочник кинолога.pdb
+D:\DOCUMENTS\Учёба\Общая\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.csprojAssemblyReference.cache
+D:\DOCUMENTS\Учёба\Общая\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник_кинолога.Form1.resources
+D:\DOCUMENTS\Учёба\Общая\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник_кинолога.Properties.Resources.resources
+D:\DOCUMENTS\Учёба\Общая\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.csproj.GenerateResource.cache
+D:\DOCUMENTS\Учёба\Общая\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\Учёба\Общая\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.exe
+D:\DOCUMENTS\Учёба\Общая\КУРСОВАЯ Кинолог\Курсовая\Курсовая\Справочник кинолога\obj\Debug\Справочник кинолога.pdb

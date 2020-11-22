@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListDogs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dogs>
+    <Kinolog>
+      <Breed>Акита-ину</Breed>
+      <Weight>35</Weight>
+      <Height>70</Height>
+      <Color>рыжий</Color>
+      <Age>2.3</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Бассет хаунд</Breed>
+      <Weight>20</Weight>
+      <Height>30</Height>
+      <Color>чёрно-рыжий</Color>
+      <Age>3</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Бигль</Breed>
+      <Weight>22</Weight>
+      <Height>37</Height>
+      <Color>рыже-белый</Color>
+      <Age>1</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Бультерьер</Breed>
+      <Weight>28</Weight>
+      <Height>40</Height>
+      <Color>белый</Color>
+      <Age>4.2</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Вельш-корги</Breed>
+      <Weight>13.5</Weight>
+      <Height>25</Height>
+      <Color>кардиган</Color>
+      <Age>2.7</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Далматинец </Breed>
+      <Weight>31</Weight>
+      <Height>55</Height>
+      <Color>чёрно-белый</Color>
+      <Age>5</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Доберман </Breed>
+      <Weight>44</Weight>
+      <Height>72</Height>
+      <Color>тёмно-коричневый</Color>
+      <Age>3.7</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Йоркширский терьер</Breed>
+      <Weight>5</Weight>
+      <Height>12</Height>
+      <Color>золотистый</Color>
+      <Age>2.5</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Кавказская овчарка</Breed>
+      <Weight>65</Weight>
+      <Height>70</Height>
+      <Color>тёмно-коричневый</Color>
+      <Age>6</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Лабрадор-ретривер</Breed>
+      <Weight>47</Weight>
+      <Height>57</Height>
+      <Color>золотистый</Color>
+      <Age>4.7</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Мопс </Breed>
+      <Weight>9</Weight>
+      <Height>30</Height>
+      <Color>серебристый</Color>
+      <Age>3.6</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Немецкая овчарка</Breed>
+      <Weight>62</Weight>
+      <Height>63</Height>
+      <Color>чёрно-жёлтый</Color>
+      <Age>7</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Пекинес </Breed>
+      <Weight>5</Weight>
+      <Height>20</Height>
+      <Color>золотистый</Color>
+      <Age>5.7</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Пудель </Breed>
+      <Weight>29</Weight>
+      <Height>33</Height>
+      <Color>тёмно-золотистый</Color>
+      <Age>5.3</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Ротвейлер</Breed>
+      <Weight>50</Weight>
+      <Height>68</Height>
+      <Color>тёмно-коричневый</Color>
+      <Age>4.6</Age>
+    </Kinolog>
+    <Kinolog>
+      <Breed>Такса </Breed>
+      <Weight>9</Weight>
+      <Height>20</Height>
+      <Color>темно-рыжий</Color>
+      <Age>7.2</Age>
+    </Kinolog>
+  </Dogs>
+</ListDogs>
